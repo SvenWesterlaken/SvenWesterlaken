@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Sven Westerlaken, a heart coded creative mind that tries to turn ideas into 1's and 0's. I currently work as a Full-Stack Developer at [@Violet88Github](https://github.com/Violet88github). I graduated in IT at Avans University of Applied Sciences in 2020.
+
+For my socials you can visit my website: https://svenwesterlaken.com
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvenWesterlaken)](https://github.com/SvenWesterlaken/repositories)
+
 <!--
 **SvenWesterlaken/SvenWesterlaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
