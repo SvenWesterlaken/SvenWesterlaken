@@ -7,7 +7,6 @@ For my socials you can visit my website: https://svenwesterlaken.com
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvenWesterlaken&count_private=true)](https://github.com/SvenWesterlaken?tab=repositories)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=svenwstrl&layout=compact)](https://wakatime.com/@svenwstrl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/SvenWesterlaken?tab=repositories)
 
 <!--
