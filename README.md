@@ -6,7 +6,9 @@ For my socials you can visit my website: https://svenwesterlaken.com
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvenWesterlaken)](https://github.com/SvenWesterlaken/repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvenWesterlaken&count_private=true)](https://github.com/SvenWesterlaken?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/SvenWesterlaken?tab=repositories)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=svenwstrl&layout=compact)](https://wakatime.com/@svenwstrl)
 
 <!--
 **SvenWesterlaken/SvenWesterlaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
